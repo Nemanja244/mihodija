@@ -266,13 +266,13 @@ ul#menu li a:hover,ul#menu li a.current
 #chapter_1 .c1
 { font-size: 16px;	
 padding:0px;
-margin:0px 400px 0px 400px;
+margin:auto auto auto auto;
 text-align: center;	}
 
 #chapter_2 .c2
 { font-size: 16px;	
 padding:0px;
-margin:0px 400px 0px 400px;
+margin:auto auto auto auto;
 text-align: center;	}
 
 /*
