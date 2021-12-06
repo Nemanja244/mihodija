@@ -5,21 +5,19 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="title" content="Mihodija" />
 <meta name="author" content="Hane_Majstor" />
-<link rel="stylesheet" href="styles/style.css" type="text/css" />
+<link rel="stylesheet" href="/mihodija_website/website_1/style.css" type="text/css" />
 </head>
+
 <body>
 	<div id="upr_frjm" align="center">
 	<img src="https://user-images.githubusercontent.com/93733872/144893264-b3ca9a50-e682-453e-830e-44be876f173f.png" alt="up_fr" width="700px;">
 	</div>
-	<!--
-	<div id="saint_pic" align="center">
-		<img src="/sv_miha_frame_smaller.png" alt="ON" width="700px;">
-		</div> -->
-<div id="pseudo-wrap1"></div>
-<div id="pseudo-wrap2"></div>
+
+	<div id="pseudo-wrap1"></div>
+	<div id="pseudo-wrap2"></div>
 <!-- Begin Wrapper -->
-<div id="wrap">
-	<!--Begin Header -->
+	<div id="wrap">
+<!--Begin Header -->
 	<div id="header">
 		<h1 style="font-family:'Times New Roman', Times, serif">М И Х О Д И Ј А</h1>
 <br>
@@ -31,12 +29,12 @@
 <br>
 <br>
 	<div id="content">
-		<div class="post">
-			<br>
+	<div class="post">
+<br>
 	<!--	<blockquote><p>У невољу те не доводи оно што не знаш. Оно што знаш, е то те просто, доводи до мене... што је jеднако невољи.</p></blockquote> -->
-		</div>
+	</div>
 		
-<img src="https://user-images.githubusercontent.com/93733872/144758738-6d7b20f9-0dec-405e-b299-aaeb8972aeea.jpg" alt="mija" id="desno">
+		<img src="https://user-images.githubusercontent.com/93733872/144758738-6d7b20f9-0dec-405e-b299-aaeb8972aeea.jpg" alt="mija" id="desno">
 		
 		<h2>Садржај</h2>
 <br>
@@ -54,14 +52,14 @@
 			<li>Расправа апостола и Њега</li>
 			<li>Митолошко биће</li>
 			<li>Лажи Његове</li>
-			<li>Молитве</li>
 			<li>Распеће Његово</li>
+			<li>Поштовање</li>
 		</ol>
 <br>
-		<h3><i>Мудрости и епистоле</i></h3>
+		<h3><i>Молитве и мудрости</i></h3>
 		<hr align="left" width="60%">
 		<ol>
-				<b><li>Eпистоле</li></b>
+				<b><li>Молитве</li></b>
 			<ul>
 				<li>Епистола св. апостола мог Марка Милу Кримосу <!--(просуто свето вино на мог Марка)--></li>
 <br>
@@ -70,11 +68,6 @@
 				<b><li>Мудрости</li></b>
 			<ul>
 				<li>Љубав тријумфује преко лажи</li>
-				<li>Љубав и опроштај</li>
-				<li>Волим Њега, Волим друге</li>
-				<li>Весело срце разведрава лице, а бол у срцу тјескоба је духу</li>
-				<li>Честити су ударци пријатељеви, а лажни пољупци непријатељеви</li>
-				<li>Самоћа је дар од Бога</li>
 			</ul>
 		</ol>
 <br>
@@ -82,22 +75,23 @@
 		<hr align="left" width="60%">
 		<ol>
 			<b><li>Oткривење свете Миходије</li></b>
+			<b><li>Литургија https://www.crkva.se/razno/liturgija_lat.htm </li></b>
 		</ol>
-		</div>
 	</div>
+	</div>
+	<!--Begin Header -->
 	<div id="wrap2">
-<!--Begin Header -->
 <br>
 <br>
-<div id="content">
+	<div id="content">
 	<div class="post">
-		<br>
+<br>
 	</div>
 	<h2>Списи светог миханђеља</h2>
 <br>
 	<h3><i>Рођење Његово</i></h3>
 	<hr align="left">
-	<pre style="font-size: 11px;">
+	<pre style="font-size: 14px;">
 Писац: Хане Мајстор
 Место писања: Војник
 Писано: децембра 2021. год.
@@ -106,7 +100,7 @@
 <br>
 
 
-<div id="chapter_1">
+	<div id="chapter_1">
 	<div class="c1">
 	<p>
 	&nbsp;&nbsp;&nbsp;&nbsp;Свитак о родослову Михе, сина Славишиног, сина Сандриног:  Сандра се родила Мири,
@@ -118,7 +112,9 @@
  	Све се то догодило да се испуни оно што је Мира рекла преко пророка:  „Ево, девица ће зачети и родиће сина, и даће му име Михануел,”∗  што значи „с нама Миха”. 
 	Кад се Славиша пробудио из сна, учинио је како га је Давид анђео упутио и узео Сандру да му буде жена, али није с њом спавао док није родила свог прворођеног сина. 
 	<b>2</b> И даде му име Миха.  Кад се Миха родио у Банци, у Деспотовцу, за време краља Огњена, дођоше неки мудраци у Плажане и упиташе:</p>
-	<pre> „Где је новорођени краљ Деспотовца?</pre>
+	<div id="king">
+	<pre>„Где је новорођени краљ Деспотовца?</pre>
+	</div>
 <br>
 	<p>
 	Видели смо његову звезду како излази па смо дошли да му се поклонимо.
@@ -202,7 +198,7 @@
 		<br>
 			<h3><i>Псалми</i></h3>
 			<hr align="left">
-			<pre style="font-size: 11px;">
+			<pre style="font-size: 14px;">
 Писац: Хане Мајстор
 Место писања: Војник
 Писано: децембра 2021. год.
@@ -238,7 +234,7 @@
 	<!--End Footer -->
 </div>
 <div id="lwr_frjm" align="center">
-	<img src="https://user-images.githubusercontent.com/93733872/144893114-2d255c71-ebf6-4e75-bc6e-8155e8462f42.png" alt="lw_fr" width="700px;">
+	<img src="https://user-images.githubusercontent.com/93733872/144893114-2d255c71-ebf6-4e75-bc6e-8155e8462f42.png" alt="lw_fr" width="90%;">
 </div>
 <!-- End Wrapper -->
 <!--End Creative Commons Attribution-->
