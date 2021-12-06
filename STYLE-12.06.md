@@ -1,17 +1,3 @@
-###############################
-
-version 1.0
-- bad #wrap position (text goes above divs height)
-- 3 wraps included
-
-
-###############################
-
-
-
-
-
-
 body {
   background-color:#000;
   color:#333;
@@ -111,7 +97,7 @@ top:211px; left:0; right:0;
 }
 /* height and width of blank page */
 #wrap {
-  height:1300px;
+  height:auto;
   width:80%;
   background-color:#fff;
   color:inherit;
@@ -120,7 +106,8 @@ top:211px; left:0; right:0;
 }
 
 #wrap2 {
-  height:1400px;
+	min-height: 100vh;
+  height:auto;
   width:80%;
   background-color:#fff;
   color:inherit;
@@ -129,7 +116,8 @@ top:211px; left:0; right:0;
 }
 
 #wrap3 {
-  height:5000px;
+	min-height: 100vh;
+  height:auto;
   width:80%;
   background-color:#fff;
   color:inherit;
