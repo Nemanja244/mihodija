@@ -9,6 +9,10 @@ h1,h2,h3,p,li {
   text-align:left;	
 }
 
+#sadrzaj {
+  text-align: left;
+}
+
 a {
   background-color:inherit;
   color:#333;
@@ -25,6 +29,14 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 35%;
+}
+
+#sredina {
+  float:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
 }
 
 blockquote {
@@ -125,6 +137,116 @@ top:211px; left:0; right:0;
   margin:30px auto 30px auto;
 }
 
+#wrap4 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap5 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap6 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap7 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap8 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap9 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap10 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap11 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap12 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap13 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
+#wrap14 {
+	min-height: 100vh;
+  height:auto;
+  width:80%;
+  background-color:#fff;
+  color:inherit;
+  padding:0;
+  margin:30px auto 30px auto;
+}
+
 #header {
   background: #b50c0c;
   background: -moz-linear-gradient(top,  #b50c0c 0%, #a81010 50%, #a80000 51%, #8e0707 100%);
@@ -194,11 +316,6 @@ ul#menu li a:hover,ul#menu li a.current
 	width:90%;
 	padding:0 25px 10px 25px;
 	margin:0 auto;	}
-	
-#content h2
-{	
-	padding:0;
-	margin:0 auto; }	
 
 #content h3
 {	background-color:inherit;
